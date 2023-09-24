@@ -1,5 +1,3 @@
-require ( './helpers.js' );
-
 describe('index.js', () => {
   describe('currentUser', () => {
     it('is defined', () => {
